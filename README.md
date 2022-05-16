@@ -18,4 +18,5 @@ washington.csv
 
 ### Credits
 The Udacity course and team
+Stackexchange
 
