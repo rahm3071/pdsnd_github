@@ -121,7 +121,7 @@ def time_stats(df, month, day):
 
 
     print("\nThis took %s seconds." % (time.time() - start_time))
-    print('-'*40)
+    print('*'*40)
 
 
 def station_stats(df):
