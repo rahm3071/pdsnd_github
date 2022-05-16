@@ -24,7 +24,7 @@ def get_filters():
             break
         else:
             
-            print("\nPlease try again. Choose one of three cities listed above") 
+            print("\nPlease try again! Please choose one of three cities listed above") 
 
     # get user input for month filter between jan and june or no month filter
     while True:
