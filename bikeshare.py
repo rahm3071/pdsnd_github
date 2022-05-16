@@ -174,10 +174,10 @@ def trip_duration_stats(df):
     if avg_m > 60:
        avg_hr, avg_m = divmod(avg_m, 60)
             
-       print("The average trip duration: {} hour(s) {} minute(s) {} second(s)".format(avg_h, avg_m, avg_s))
+       print("The average trip duration was {} hour(s) {} minute(s) {} second(s)".format(avg_h, avg_m, avg_s))
     else:
             
-       print("The average trip duration: {} minute(s) {} second(s)".format(avg_m,avg_s))
+       print("The average trip duration was {} minute(s) {} second(s)".format(avg_m,avg_s))
 
 
     print("\nThis took %s seconds." % (time.time() - start_time))
