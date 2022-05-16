@@ -15,6 +15,7 @@ bikeshare.py
 chicago.csv 
 new_york_city.csv 
 washington.csv
+manual.yml
 
 ### Credits
 The Udacity course and team
